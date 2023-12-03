@@ -5,4 +5,7 @@ fun main() {
 
     println("Day2")
     solveDay2()
+
+    println("Day3")
+    solveDay3()
 }
