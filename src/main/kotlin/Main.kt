@@ -12,6 +12,12 @@ fun main() {
     println("Day4")
     solveDay4()
 
+    println("Day5")
+    solveDay5()
+
     println("Day6")
     solveDay6()
+
+    println("Day7")
+    solveDay7()
 }
