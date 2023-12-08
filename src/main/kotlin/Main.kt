@@ -20,4 +20,7 @@ fun main() {
 
     println("Day7")
     solveDay7()
+
+    println("Day8")
+    solveDay8()
 }
